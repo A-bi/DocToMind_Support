@@ -1,123 +1,122 @@
-# Datenschutzerklärung für die App „DocToMind“
+# Privacy Policy for the app “DocToMind”
 
-Stand: Dezember 2025
+Last updated: December 2025
 
-Diese Datenschutzerklärung informiert dich darüber, welche personenbezogenen Daten bei der Nutzung der App **DocToMind** verarbeitet werden und zu welchen Zwecken dies geschieht.
+This privacy policy explains what personal data is processed when you use the app **DocToMind** and for which purposes.
 
-DocToMind wird von folgender Verantwortlichen betrieben:
+DocToMind is operated by:
 
-**Verantwortliche Person**  
+**Controller / Developer**  
 Alice Laquerriere  
-E-Mail: alice.laquerriere@gmx.de
+E-mail: alice.laquerriere@gmx.de
 
 ---
 
-## 1. Grundprinzipien
+## 1. General Principles
 
-DocToMind ist eine Lern- und Organisations-App für medizinische Texte.  
-Die App ist so konzipiert, dass sie weitestgehend **lokal auf deinem Gerät** arbeitet.
+DocToMind is a learning and productivity tool for medical texts.  
+The app is designed to work primarily **on your device**, not on external servers.
 
-- Es findet **keine automatische Übermittlung** von Dokumenten oder Inhalten an externe Server statt.  
-- Es werden **keine Tracking- oder Analyse-Dienste** (z. B. Google Analytics, Firebase Analytics o. Ä.) genutzt.  
-- Es wird **kein Profiling** im Sinne der DSGVO durchgeführt.
-
----
-
-## 2. Verarbeitung von Daten in der App
-
-### 2.1. Dokumente und Inhalte
-
-Du kannst mit DocToMind z. B.:
-
-- medizinische Texte scannen (Arztbriefe, Befunde, Skripte, Notizen)  
-- Texte per OCR erkennen  
-- Zusammenfassungen, Lernkarten und Erklärungen erstellen lassen  
-
-**Wichtiger Hinweis:**  
-Ob und welche personenbezogenen Daten dabei verarbeitet werden, hängt allein von den Dokumenten ab, die du selbst in die App lädst (z. B. wenn echte Patientendaten in einem Dokument enthalten sind).
-
-Diese Inhalte werden:
-
-- ausschließlich **lokal auf deinem Gerät** verarbeitet  
-- nur innerhalb der App gespeichert oder  
-- in Dateien/Exports gespeichert, die du **explizit** erzeugst (z. B. Text-Export, Anki-TSV).
-
-Es findet **keine automatische Übertragung** dieser Inhalte an die Entwickler:in oder Dritte statt.
-
-Die Verantwortung für die datenschutzkonforme Nutzung (z. B. Anonymisierung von Patientendaten, Beachtung von Klinikrichtlinien) liegt bei dir als Anwender:in.
+- There is **no automatic upload** of your documents or content to external servers.  
+- No third-party tracking or analytics services (e.g. Google Analytics, Firebase Analytics) are used.  
+- No profiling in the sense of the GDPR is performed.
 
 ---
 
-### 2.2. Technische Daten / App-Funktion
+## 2. Data Processed in the App
 
-Für die grundlegende Funktion kann die App lokal technische Informationen verarbeiten, z. B.:
+### 2.1 Documents and Content
 
-- verwendetes Gerät (iPhone / iPad – intern zur Anzeigeoptimierung)  
-- von dir gewählte Einstellungen innerhalb der App  
+With DocToMind you can, for example:
 
-Diese Daten dienen ausschließlich der Bereitstellung der App-Funktion und werden nicht an externe Server gesendet.
+- scan medical documents (e.g. letters, reports, notes)  
+- perform OCR (text recognition)  
+- generate summaries, learning cards and explanations  
 
-Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung / Nutzung der App).
+Whether personal data is processed depends entirely on the documents that **you** choose to import into the app (for example, if real patient data is contained in a document).
 
----
+These contents are:
 
-## 3. Kontaktaufnahme (Support)
+- processed **locally on your device**  
+- stored only inside the app or  
+- stored in files/exports that you explicitly create (e.g. text export, Anki TSV).
 
-Wenn du den Support kontaktierst (z. B. per E-Mail an **alice.laquerriere@gmx.de**), werden die von dir mitgeteilten Daten verarbeitet, z. B.:
+There is **no automatic transfer** of these contents to the developer or to any third party.
 
-- E-Mail-Adresse  
-- Inhalte deiner Nachricht  
-- ggf. Fehlerbeschreibungen, Screenshots (sofern von dir gesendet)
-
-Diese Daten werden ausschließlich zur Bearbeitung deiner Anfrage genutzt.
-
-Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Beantwortung von Anfragen im Zusammenhang mit der Nutzung der App) und ggf. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer effizienten Kommunikation).
-
-**Wichtig:**  
-Bitte sende **keine echten Patientendaten** oder andere besonders sensible Daten im Rahmen von Support-Anfragen. Nutze anonymisierte oder fiktive Beispiele.
+You, as the user, are responsible for using the app in compliance with applicable data protection rules (e.g. anonymising patient data, following institutional policies).
 
 ---
 
-## 4. Keine Weitergabe an Dritte / keine Drittanbieter-Services
+### 2.2 Technical Data / App Functionality
 
-DocToMind verwendet:
+To provide basic functionality, the app may locally process technical information such as:
 
-- **keine externen Analytics-Dienste**  
-- **keine Werbung / Ad-Tracking**  
-- **keine Social-Media-Plugins**
+- device type (iPhone / iPad – used internally for layout and display)  
+- settings you choose within the app  
 
-Es erfolgt keine Weitergabe von Daten an Dritte, außer wenn dies:
+These data are used solely to provide the app’s features and are not transmitted to external servers.
 
-- gesetzlich vorgeschrieben ist oder  
-- du ausdrücklich einwilligst.
+The legal basis (where the GDPR applies) is Art. 6(1)(b) GDPR (performance of a contract / use of the app).
 
 ---
 
-## 5. Speicherdauer
+## 3. Contacting Support
 
-- Daten auf deinem Gerät (Dokumente, Zusammenfassungen, Lernkarten etc.) werden so lange gespeichert, wie du sie in der App belässt oder nicht selbst löschst.  
-- Daten aus Support-Anfragen (z. B. E-Mails) werden gelöscht, sobald sie für die Bearbeitung deiner Anfrage nicht mehr erforderlich sind – vorbehaltlich gesetzlicher Aufbewahrungspflichten.
+If you contact support (for example by e-mail to **alice.laquerriere@gmx.de**), the personal data you provide will be processed, such as:
 
----
+- your e-mail address  
+- the content of your message  
+- any error descriptions, screenshots or logs you choose to send  
 
-## 6. Deine Rechte nach DSGVO
+These data are used solely to handle and respond to your request.
 
-Soweit personenbezogene Daten im Sinne der DSGVO verarbeitet werden, hast du folgende Rechte:
+The legal basis is Art. 6(1)(b) GDPR (responding to user requests in the context of app usage) and, where applicable, Art. 6(1)(f) GDPR (legitimate interest in efficient communication).
 
-- Recht auf Auskunft (Art. 15 DSGVO)  
-- Recht auf Berichtigung (Art. 16 DSGVO)  
-- Recht auf Löschung (Art. 17 DSGVO)  
-- Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)  
-- Recht auf Datenübertragbarkeit (Art. 20 DSGVO)  
-- Recht auf Widerspruch (Art. 21 DSGVO)  
-- Recht, eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen (Art. 7 Abs. 3 DSGVO)
-
-Du hast zudem das Recht, dich bei einer Datenschutzaufsichtsbehörde zu beschweren, wenn du der Ansicht bist, dass die Verarbeitung der dich betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+**Important:**  
+Please do **not** send real patient data or other highly sensitive data in support requests. Use anonymised or fictitious examples instead.
 
 ---
 
-## 7. Änderungen dieser Datenschutzerklärung
+## 4. No Third-Party Services / No Data Sharing
 
-Diese Datenschutzerklärung kann gelegentlich angepasst werden, z. B. wenn sich Funktionen der App ändern oder rechtliche Anforderungen angepasst werden.
+DocToMind does **not** use:
 
-Die jeweils aktuelle Version ist im offiziellen GitHub-Repository von DocToMind unter `DATENSCHUTZ.md` einsehbar.
+- external analytics services  
+- advertising networks or ad tracking  
+- social media plugins  
+
+No data is shared with third parties, unless:
+
+- this is required by law, or  
+- you explicitly consent to it.
+
+---
+
+## 5. Data Retention
+
+- Data stored on your device (documents, summaries, learning cards, exports, etc.) are kept as long as you do not delete them yourself or remove the app.  
+- Data from support requests (e.g. e-mails) are stored only as long as necessary to process your request, subject to statutory retention obligations.
+
+---
+
+## 6. Your Rights under the GDPR
+
+Where the GDPR applies and personal data are processed, you have the following rights:
+
+- Right of access (Art. 15 GDPR)  
+- Right to rectification (Art. 16 GDPR)  
+- Right to erasure (Art. 17 GDPR)  
+- Right to restriction of processing (Art. 18 GDPR)  
+- Right to data portability (Art. 20 GDPR)  
+- Right to object (Art. 21 GDPR)  
+- Right to withdraw consent at any time with effect for the future (Art. 7(3) GDPR), where processing is based on consent  
+
+You also have the right to lodge a complaint with a data protection supervisory authority if you believe that the processing of personal data relating to you infringes the GDPR.
+
+---
+
+## 7. Changes to this Privacy Policy
+
+This privacy policy may be updated from time to time, for example if app features change or legal requirements are updated.
+
+The current version is always available in the official DocToMind support repository as `PRIVACY.md`.
