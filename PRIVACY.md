@@ -59,6 +59,10 @@ These data are used solely to provide the app’s features and are not transmitt
 The legal basis (where the GDPR applies) is Art. 6(1)(b) GDPR (performance of a contract / use of the app).
 
 ---
+### 2.3 Camera
+
+DocToMind uses the device camera only to scan documents that you explicitly choose to capture (e.g. medical letters, reports, notes or learning material). The images are processed locally on the device to perform OCR and generate text. They are not automatically uploaded to any external server by the app.
+---
 
 ## 3. Contacting Support
 
